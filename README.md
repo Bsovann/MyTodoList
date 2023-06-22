@@ -1,1 +1,2 @@
 # MyTodoList
+The Todo-List project is a web application developed using Java Servlet and JSP technologies. It provides a simple and intuitive interface for users to manage their tasks and stay organized. With this application, users can create, view, update, and delete their tasks easily. This project is intended to demonstrate hands-on experience using JavaEE (Servlet and JSP) to potential employers.
